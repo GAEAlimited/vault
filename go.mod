@@ -82,7 +82,7 @@ require (
 	github.com/hashicorp/vault-plugin-secrets-kv v0.5.2-0.20190416155133-fd495225dea0
 	github.com/hashicorp/vault/api v1.0.1
 	github.com/hashicorp/vault/sdk v0.1.11
-	github.com/influxdata/influxdb v0.0.0-20190411212539-d24b7ba8c4c4
+	github.com/influxdata/influxdb v1.7.6
 	github.com/jackc/fake v0.0.0-20150926172116-812a484cc733 // indirect
 	github.com/jackc/pgx v3.3.0+incompatible // indirect
 	github.com/jefferai/isbadcipher v0.0.0-20190226160619-51d2077c035f
