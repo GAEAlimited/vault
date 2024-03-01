@@ -120,8 +120,8 @@ require (
 	github.com/streadway/amqp v0.0.0-20190404075320-75d898a42a94 // indirect
 	github.com/tv42/httpunix v0.0.0-20150427012821-b75d8614f926 // indirect
 	go.etcd.io/etcd v0.0.0-20190412021913-f29b1ada1971
-	golang.org/x/crypto v0.0.0-20190325154230-a5d413f7728c
-	golang.org/x/net v0.0.0-20190404232315-eb5bcb51f2a3
+	golang.org/x/crypto v0.17.0
+	golang.org/x/net v0.10.0
 	golang.org/x/oauth2 v0.0.0-20190402181905-9f3314589c9a
 	google.golang.org/api v0.3.2
 	google.golang.org/genproto v0.0.0-20190404172233-64821d5d2107
